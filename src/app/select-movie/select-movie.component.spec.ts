@@ -25,12 +25,12 @@ describe('SelectMovieComponent', () => {
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
-  describe("bounday", () => {
+  describe("boundary", () => {
     it('should be created', () => {
       expect(component).toBeTruthy();
     });
   });
-  describe("business", () => {
+  describe("functional", () => {
     it('should fetch all movies', async () => {
       expect(component).toBeTruthy();
 
