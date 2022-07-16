@@ -18,14 +18,14 @@ describe('HeaderComponent', () => {
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
-  describe("bounday", () => {
+  describe("boundary", () => {
 
     it('should create', () => {
       expect(component).toBeTruthy();
     });
   });
 
-  describe("business", () => {
+  describe("functional", () => {
     it(" should contain 2 links", () => {
       let element = fixture.nativeElement;
 
