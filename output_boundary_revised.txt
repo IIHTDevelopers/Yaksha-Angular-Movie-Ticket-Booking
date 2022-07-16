@@ -1,0 +1,2 @@
+appcomponentBoundaryShouldCreateTheApp=true
+landingpagecomponentBoundaryShouldCreate=true

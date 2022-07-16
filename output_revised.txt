@@ -1,0 +1,3 @@
+headercomponentBusinessShouldContain2Links=true
+headercomponentBusinessShouldContainImage/logo=true
+headercomponentBusinessShouldContainMoviesLink=true
