@@ -18,7 +18,7 @@ describe('FooterComponent', () => {
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
-  describe("bounday", () => {
+  describe("boundary", () => {
 
     it('should create', () => {
       expect(component).toBeTruthy();
